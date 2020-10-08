@@ -1,0 +1,11 @@
+insert into city_country (city, country) values ('Delhi','India');
+insert into city_country (city, country) values ('AFGHANISTAN','KABUL');
+insert into city_country (city, country) values ('ALBANIA','TIRANA');
+insert into city_country (city, country) values ('ALGERIA','ALGIERS');
+insert into city_country (city, country) values ('ANDORRA','ANDORRA LA VELLA');
+insert into city_country (city, country) values ('ANGOLA','LUANDA');
+insert into city_country (city, country) values ('ANTIGUA & BARBUDA','SAINT JOHN''S');
+insert into city_country (city, country) values ('ARGENTINA','BUENOS AIRES');
+insert into city_country (city, country) values ('ARMENIA','YEREVAN');
+insert into city_country (city, country) values ('AUSTRALIA','CANBERRA');
+insert into city_country (city, country) values ('AUSTRIA','VIENNA');
